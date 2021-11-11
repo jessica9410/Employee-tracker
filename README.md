@@ -37,6 +37,7 @@ THEN I am prompted to select an employee to update and their new role and this i
  ``MySQL2 package``  ``Inquirer package`` ``console.table package`` ``npm asciiart-logo``
 ## Usage
 ----
+https://watch.screencastify.com/v/0BKEr8gpTj94MZugB4Sn
 ## License
 ----
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
