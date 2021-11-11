@@ -1,7 +1,8 @@
 ## Employee-tracker
+----
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 ## Description
-
+----
 ```md
 GIVEN a command-line application that accepts user input
 WHEN I start the application
@@ -24,7 +25,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 ## Table of Contents
-
+-----
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -32,15 +33,18 @@ THEN I am prompted to select an employee to update and their new role and this i
 - [Questions](#questions)
 
 ## Installation
- ```MySQL2 package```  ```Inquirer package``` ```console.table package```
+----
+ ``MySQL2 package``  ``Inquirer package`` ``console.table package`` ``npm asciiart-logo``
 ## Usage
-<br />
+----
 ## License
+----
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
-<br />
+
 This application is covered by the MIT license. 
 
 ## Questions
-Find me on GitHub: [Jessicaga9410](https://github.com/Jessica9410)<br />
-<br />
-Email me with any questions: Jessicaga9410@gmail.com<br /><br />
+-----
+Find me on GitHub: [Jessicaga9410](https://github.com/Jessicaga9410)
+
+Email me with any questions: Jessicaga941@gmail.com
